@@ -1,0 +1,45 @@
+C:.
+│   OrderManagementAPI.slnx
+│
+└───OrderManagementAPI
+    │   appsettings.Development.json
+    │   appsettings.json
+    │   OrderManagementAPI.csproj
+    │   OrderManagementAPI.csproj.Backup.tmp
+    │   OrderManagementAPI.csproj.user
+    │   OrderManagementAPI.http
+    │   Program.cs
+    │
+    ├───Controllers
+    │       AuthController.cs
+    │       OrdersController.cs
+    │
+    ├───Data
+    │       ApplicationDbContext.cs
+    │
+    ├───DTOs
+    │       AuthLoginDto.cs
+    │       AuthRegisterDto.cs
+    │       OrderCreateDto.cs
+    │       OrderReadDto.cs
+    │       OrderUpdateDto.cs
+    │
+    ├───Migrations
+    │       20251129165740_InitialCreate.cs
+    │       20251129165740_InitialCreate.Designer.cs
+    │       ApplicationDbContextModelSnapshot.cs
+    │
+    ├───Models
+    │       ApplicationUser.cs
+    │       Order.cs
+    │
+    ├───Properties
+    │       launchSettings.json
+    │
+    ├───Services
+    │       IOrderService.cs
+    │       OrderService.cs
+    │
+    └───Validators
+            OrderCreateDtoValidator.cs
+            OrderUpdateDtoValidator.cs
