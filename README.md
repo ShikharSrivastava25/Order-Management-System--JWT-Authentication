@@ -1,3 +1,6 @@
+## Project Structure 
+<img width="448" height="849" alt="image" src="https://github.com/user-attachments/assets/9abbe68d-4703-451b-8017-bd7d9297ef6a" />
+
 ## Registering a User
  <img width="940" height="466" alt="image" src="https://github.com/user-attachments/assets/e0f265ec-29ff-4603-86aa-0b48802c0a48" />
 
@@ -22,12 +25,3 @@
  
 ### DELETE
 <img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/32bbf033-ab2b-4df3-a707-e7bad238f784" />
-
-
-
-
-- DELETE
- 
-
-- GET after PUT and DELETE requests
- 
